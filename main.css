@@ -1,0 +1,62 @@
+
+/* the style for the elements */
+body {
+    background-color:#f3ebdc;
+    font-family: Verdana, Arial, sans-serif
+    margin: 20px;
+    line-height: 1.5;
+    }
+
+nav > ul {
+    line-height:2em;
+    list-style: square;
+    
+    }
+
+ul li {
+    background-color: rgb(210, 208, 208);
+    margin-bottom: 6px;
+    padding:10px;
+    border-radius:6px;
+    
+}
+a:link {color: #3a7d44);}
+a:hover, a:focus {color: #f24207;}
+
+/* the style for the header */
+header h1 {
+    background-color:#e7d778;
+    padding: 15px;
+    }
+
+h1 {color: rgb(98, 56, 1);
+        font-size: 170%;}
+main h2 {color: #5a7d52;
+        font-size: 130%;}
+
+
+
+/* the style for the main content */
+
+section {background-color: #ffffff;
+        padding: 15px;}
+
+  h2{background-color: #dbc09e;} 
+  ol li {background-color:#f2ebe2;
+        list-style:circle;
+        font-size:120%;
+    } 
+
+section p { font-size: 120%; }
+
+/* the style for the footer */
+
+footer {
+    background-color: #e7d778;
+    text-align: center;
+    padding: 5px;
+    
+}
+
+
+
